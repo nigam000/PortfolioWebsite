@@ -4,14 +4,14 @@ A Flutter Developer Portfolio Website.
 
 - [Insipiration](https://www.behance.net/gallery/124943121/Portfolio?tracking_source=search_projects%7Cportfolio%20designer&)
 
-- [Live Website](https://www.om-chauhan.co.in)
+- [Live Website](https://nigam000.github.io/)
 
 ## Getting Started
 
 #### 1. Copy or Download code in your system
 
 ```
-git clone https://github.com/om-chauhan/developer_portfolio_flutter.git
+git clone 
 ```
 
 #### 2. Got to Inside project Directory
@@ -26,11 +26,3 @@ cd developer_portfolio_flutter
 flutter run
 ```
 
-## Screenshot
-
-
-| ![Splash Screen](/screenshot/Portfolio-1.png) | ![Login Screen](/screenshot/Portfolio-2.png) | ![Signup Screen](/screenshot/Portfolio-3.png) |
-
-## Licence
-
-[MIT Licence](https://github.com/om-chauhan/developer_portfolio_flutter/blob/master/LICENSE)
