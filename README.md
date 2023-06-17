@@ -11,7 +11,7 @@ A Flutter Developer Portfolio Website.
 #### 1. Copy or Download code in your system
 
 ```
-git clone 
+git clone https://github.com/nigam000/PortfolioWebsite/tree/main.git
 ```
 
 #### 2. Got to Inside project Directory
